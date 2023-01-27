@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iKyyILHAM
 - 👀 Call me ilham
 
-![github stats]()
+![github stats](https://github-readme-stats.vercel.app/api?username=iKyyilham&show_icons=true)
 
 dah gitu aja
 <!---
