@@ -5,6 +5,11 @@
 ![github stats](https://github-readme-streak-stats.herokuapp.com/?user=ikyyilham&hide_border=false)<br/>
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ikyyilham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
+<p align="center"> 
+  Visitor<br>
+  <img src="https://profile-counter.glitch.me/ikyyilham/count.svg" />
+</p>
+
 dah gitu aja
 <!---
 iKyyILHAM/iKyyILHAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
